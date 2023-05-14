@@ -3,7 +3,7 @@
 		- containing the [[nucleus]]
 	- [[dendrites]], extending from the [[soma]]
 	- the [[axon]] (aka "nerve fiber")
-		- wrapped in the
+		- insulated by the [[myelin sheath]]
 		- joined to the [[soma]] by the [[axon hillock]]
 		-
 		-
