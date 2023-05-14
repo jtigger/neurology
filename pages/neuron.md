@@ -1,7 +1,7 @@
 - a neuron is composed of:
 	- the [[soma]] (i.e. cell body)
 		- containing the [[nucleus]]
-	- [[dendrite]], extending from the [[soma]]
+	- [[dendrite]]s, extending from the [[soma]]
 		-
 	- the [[axon]] (aka "nerve fiber")
 		- insulated by the [[myelin sheath]]

@@ -1,0 +1,4 @@
+- Functions
+	- receives information from other [[neuron]]s
+	-
+- receive information from other neurons and to transmit electrical signals to the cell body
