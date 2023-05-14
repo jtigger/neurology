@@ -1,3 +1,7 @@
+- Anatomy
+	- attached to the [[soma]]
+	- tree-root-shaped
+	- typically shorter and more numerous than [[axon]]s.
 - Functions
 	- receives information from other [[neuron]]s
 	- transmits electrical signals to the [[soma]] (i.e. cell body)

@@ -1,4 +1,5 @@
 - anatomy
 	- joined to the [[axon]] by the [[axon hillock]]
 - function
-	- receives
+	- receives electrical signals from [[dendrite]]s
+	-
