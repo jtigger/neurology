@@ -1,6 +1,7 @@
 - a neuron is composed of:
-	- the soma (i.e. cell body)
-		- containing the **nucleus**
-	- the axon extending from
+	- the [[soma]] (i.e. cell body)
+		- containing the [[nucleus]]
+	- the [[axon]] (aka "nerve fiber")
+	-
 	-
 	-
