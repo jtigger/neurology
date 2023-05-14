@@ -1,0 +1,4 @@
+- a neuron is composed of:
+	- a cell body
+	- the axon
+	-
