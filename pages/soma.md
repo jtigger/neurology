@@ -1,1 +1,4 @@
-- joined to the [[axon]] by the [[axon hillock]]
+- anatomy
+	- joined to the [[axon]] by the [[axon hillock]]
+- function
+	- receives
