@@ -1,0 +1,2 @@
+- insulated by the [[myelin sheath]]
+- joined to the [[soma]] by the [[axon hillock]]

@@ -1,1 +1,2 @@
-- allows nerve impulses
+- allows nerve impulses to transmit more rapidly along the [[axon]]
+-

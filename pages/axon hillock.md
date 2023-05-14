@@ -1,0 +1,2 @@
+- joins the [[soma]] to the [[axon]].
+-

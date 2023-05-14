@@ -1,0 +1,1 @@
+- joined to the [[axon]] by the [[axon hillock]]
