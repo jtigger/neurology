@@ -1,2 +1,2 @@
-- allows nerve impulses to transmit more rapidly along the [[axon]]
+- wraps and insulates the [[axon]], allowing nerve impulses to transmit more rapidly along it.
 -
