@@ -2,6 +2,7 @@
 	- the [[soma]] (i.e. cell body)
 		- containing the [[nucleus]]
 	- the [[axon]] (aka "nerve fiber")
-	-
+		- joined to the [[soma]] by the [[axon hillock]]
+		-
 	-
 	-
