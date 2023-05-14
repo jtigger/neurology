@@ -1,2 +1,3 @@
 - a gap between two [[neuron]]s
-	-
+	- starting at a [[axon terminal]] of the source [[axon]]
+	- terminating at [[dendrite]]
