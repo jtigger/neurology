@@ -6,7 +6,8 @@
 	- the [[axon]] (aka "nerve fiber")
 		- insulated by the [[myelin sheath]]
 		- joined to the [[soma]] by the [[axon hillock]]
+- neurons communicate across a [[synapse]]
 	-
-		-
+	-
 	-
 	-
