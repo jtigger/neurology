@@ -1,8 +1,10 @@
 - a neuron is composed of:
 	- the [[soma]] (i.e. cell body)
 		- containing the [[nucleus]]
+	- [[dendrites]], extending from the [[soma]]
 	- the [[axon]] (aka "nerve fiber")
 		- joined to the [[soma]] by the [[axon hillock]]
+		-
 		-
 	-
 	-
